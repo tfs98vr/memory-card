@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.7dbcb895.css",
+    "main.js": "/memory-card/static/js/main.2df0265e.js",
+    "static/media/bike.png": "/memory-card/static/media/bike.103a9c656c1cd2a02f67.png",
+    "static/media/motorcycle.png": "/memory-card/static/media/motorcycle.b4ad46cfc2107f9203e3.png",
+    "static/media/plane.png": "/memory-card/static/media/plane.664a6c230bb368358bad.png",
+    "static/media/rocket.png": "/memory-card/static/media/rocket.28f18c9899433d6d7c09.png",
+    "static/media/truck.png": "/memory-card/static/media/truck.062192cead84c4ae3800.png",
+    "static/media/ice-skate.png": "/memory-card/static/media/ice-skate.a1472e03b6c6eecc6bdd.png",
+    "static/media/car.png": "/memory-card/static/media/car.2c335c5e0c221547a439.png",
+    "static/media/black-car.png": "/memory-card/static/media/black-car.25ee220534c76430749c.png",
+    "static/media/bus.png": "/memory-card/static/media/bus.b2c98f1abbf1f26d1f15.png",
+    "index.html": "/memory-card/index.html",
+    "main.7dbcb895.css.map": "/memory-card/static/css/main.7dbcb895.css.map",
+    "main.2df0265e.js.map": "/memory-card/static/js/main.2df0265e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dbcb895.css",
+    "static/js/main.2df0265e.js"
+  ]
+}
